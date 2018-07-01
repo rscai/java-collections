@@ -20,14 +20,6 @@
 
 ### LinkedList
 
-## Set
-
-### Set interface
-
-### HashSet
-
-### TreeSet
-
 ## Map
 
 ### Map Interface
@@ -35,3 +27,11 @@
 ### HashMap
 
 ### TreeMap
+
+## Set
+
+### Set interface
+
+### HashSet
+
+### TreeSet
